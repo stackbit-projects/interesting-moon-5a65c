@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
         iconPosition: left
         showIcon: true
-        icon: arrowLeft
+        icon: arrowRight
     media:
       type: ImageBlock
       url: /images/hero-1.png

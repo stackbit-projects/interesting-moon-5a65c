@@ -16,6 +16,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+        iconPosition: right
     media:
       type: ImageBlock
       url: /images/hero-1.png
@@ -134,7 +135,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:

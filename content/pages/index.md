@@ -14,7 +14,7 @@ sections:
       - type: Button
         label: Sign up
         url: 'https://www.stackbit.com/'
-        style: primary
+        style: secondary
         elementId: hero-main-button
         iconPosition: left
     media:

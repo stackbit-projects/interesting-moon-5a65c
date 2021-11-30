@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
         iconPosition: left
         showIcon: true
-        icon: arrowRight
+        icon: github
     media:
       type: ImageBlock
       url: /images/hero-1.png
